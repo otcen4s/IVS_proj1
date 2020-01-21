@@ -1,0 +1,1 @@
+/usr/bin/c++   -g -O0 -fprofile-arcs -ftest-coverage -std=c++11 -g  -rdynamic CMakeFiles/tdd_test.dir/tdd_code.cpp.o CMakeFiles/tdd_test.dir/tdd_tests.cpp.o  -o tdd_test lib/libgtest_maind.a lib/libgtestd.a -lpthread 

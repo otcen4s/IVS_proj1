@@ -1,0 +1,1002 @@
+Start testing: Mar 04 11:24 CET
+----------------------------------------------------------
+1/37 Testing: EmptyTree.Insert
+1/37 Test: EmptyTree.Insert
+Command: "/home/matej/Desktop/assignment/build/black_box_test" "--gtest_filter=EmptyTree.Insert"
+Directory: /home/matej/Desktop/assignment/build
+"EmptyTree.Insert" start time: Mar 04 11:24 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/matej/Desktop/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyTree.Insert
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyTree
+[ RUN      ] EmptyTree.Insert
+[       OK ] EmptyTree.Insert (0 ms)
+[----------] 1 test from EmptyTree (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyTree.Insert" end time: Mar 04 11:24 CET
+"EmptyTree.Insert" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/37 Testing: EmptyTree.InsertTwoValues
+2/37 Test: EmptyTree.InsertTwoValues
+Command: "/home/matej/Desktop/assignment/build/black_box_test" "--gtest_filter=EmptyTree.InsertTwoValues"
+Directory: /home/matej/Desktop/assignment/build
+"EmptyTree.InsertTwoValues" start time: Mar 04 11:24 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/matej/Desktop/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyTree.InsertTwoValues
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyTree
+[ RUN      ] EmptyTree.InsertTwoValues
+[       OK ] EmptyTree.InsertTwoValues (0 ms)
+[----------] 1 test from EmptyTree (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyTree.InsertTwoValues" end time: Mar 04 11:24 CET
+"EmptyTree.InsertTwoValues" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/37 Testing: EmptyTree.Remove
+3/37 Test: EmptyTree.Remove
+Command: "/home/matej/Desktop/assignment/build/black_box_test" "--gtest_filter=EmptyTree.Remove"
+Directory: /home/matej/Desktop/assignment/build
+"EmptyTree.Remove" start time: Mar 04 11:24 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/matej/Desktop/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyTree.Remove
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyTree
+[ RUN      ] EmptyTree.Remove
+[       OK ] EmptyTree.Remove (0 ms)
+[----------] 1 test from EmptyTree (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyTree.Remove" end time: Mar 04 11:24 CET
+"EmptyTree.Remove" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/37 Testing: EmptyTree.Find
+4/37 Test: EmptyTree.Find
+Command: "/home/matej/Desktop/assignment/build/black_box_test" "--gtest_filter=EmptyTree.Find"
+Directory: /home/matej/Desktop/assignment/build
+"EmptyTree.Find" start time: Mar 04 11:24 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/matej/Desktop/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyTree.Find
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyTree
+[ RUN      ] EmptyTree.Find
+[       OK ] EmptyTree.Find (0 ms)
+[----------] 1 test from EmptyTree (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyTree.Find" end time: Mar 04 11:24 CET
+"EmptyTree.Find" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/37 Testing: EmptyTree.LeafNodes
+5/37 Test: EmptyTree.LeafNodes
+Command: "/home/matej/Desktop/assignment/build/black_box_test" "--gtest_filter=EmptyTree.LeafNodes"
+Directory: /home/matej/Desktop/assignment/build
+"EmptyTree.LeafNodes" start time: Mar 04 11:24 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/matej/Desktop/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyTree.LeafNodes
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyTree
+[ RUN      ] EmptyTree.LeafNodes
+[       OK ] EmptyTree.LeafNodes (0 ms)
+[----------] 1 test from EmptyTree (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyTree.LeafNodes" end time: Mar 04 11:24 CET
+"EmptyTree.LeafNodes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/37 Testing: EmptyTree.AllNodes
+6/37 Test: EmptyTree.AllNodes
+Command: "/home/matej/Desktop/assignment/build/black_box_test" "--gtest_filter=EmptyTree.AllNodes"
+Directory: /home/matej/Desktop/assignment/build
+"EmptyTree.AllNodes" start time: Mar 04 11:24 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/matej/Desktop/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyTree.AllNodes
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyTree
+[ RUN      ] EmptyTree.AllNodes
+[       OK ] EmptyTree.AllNodes (0 ms)
+[----------] 1 test from EmptyTree (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyTree.AllNodes" end time: Mar 04 11:24 CET
+"EmptyTree.AllNodes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/37 Testing: EmptyTree.NonLeafNodes
+7/37 Test: EmptyTree.NonLeafNodes
+Command: "/home/matej/Desktop/assignment/build/black_box_test" "--gtest_filter=EmptyTree.NonLeafNodes"
+Directory: /home/matej/Desktop/assignment/build
+"EmptyTree.NonLeafNodes" start time: Mar 04 11:24 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/matej/Desktop/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyTree.NonLeafNodes
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyTree
+[ RUN      ] EmptyTree.NonLeafNodes
+[       OK ] EmptyTree.NonLeafNodes (0 ms)
+[----------] 1 test from EmptyTree (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyTree.NonLeafNodes" end time: Mar 04 11:24 CET
+"EmptyTree.NonLeafNodes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/37 Testing: EmptyTree.InsertNodes
+8/37 Test: EmptyTree.InsertNodes
+Command: "/home/matej/Desktop/assignment/build/black_box_test" "--gtest_filter=EmptyTree.InsertNodes"
+Directory: /home/matej/Desktop/assignment/build
+"EmptyTree.InsertNodes" start time: Mar 04 11:24 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/matej/Desktop/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyTree.InsertNodes
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyTree
+[ RUN      ] EmptyTree.InsertNodes
+[       OK ] EmptyTree.InsertNodes (0 ms)
+[----------] 1 test from EmptyTree (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyTree.InsertNodes" end time: Mar 04 11:24 CET
+"EmptyTree.InsertNodes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/37 Testing: NonEmptyTree.Remove
+9/37 Test: NonEmptyTree.Remove
+Command: "/home/matej/Desktop/assignment/build/black_box_test" "--gtest_filter=NonEmptyTree.Remove"
+Directory: /home/matej/Desktop/assignment/build
+"NonEmptyTree.Remove" start time: Mar 04 11:24 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/matej/Desktop/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyTree.Remove
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyTree
+[ RUN      ] NonEmptyTree.Remove
+[       OK ] NonEmptyTree.Remove (0 ms)
+[----------] 1 test from NonEmptyTree (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyTree.Remove" end time: Mar 04 11:24 CET
+"NonEmptyTree.Remove" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/37 Testing: NonEmptyTree.Insert
+10/37 Test: NonEmptyTree.Insert
+Command: "/home/matej/Desktop/assignment/build/black_box_test" "--gtest_filter=NonEmptyTree.Insert"
+Directory: /home/matej/Desktop/assignment/build
+"NonEmptyTree.Insert" start time: Mar 04 11:24 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/matej/Desktop/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyTree.Insert
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyTree
+[ RUN      ] NonEmptyTree.Insert
+[       OK ] NonEmptyTree.Insert (1 ms)
+[----------] 1 test from NonEmptyTree (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyTree.Insert" end time: Mar 04 11:24 CET
+"NonEmptyTree.Insert" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/37 Testing: NonEmptyTree.Find
+11/37 Test: NonEmptyTree.Find
+Command: "/home/matej/Desktop/assignment/build/black_box_test" "--gtest_filter=NonEmptyTree.Find"
+Directory: /home/matej/Desktop/assignment/build
+"NonEmptyTree.Find" start time: Mar 04 11:24 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/matej/Desktop/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyTree.Find
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyTree
+[ RUN      ] NonEmptyTree.Find
+[       OK ] NonEmptyTree.Find (0 ms)
+[----------] 1 test from NonEmptyTree (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyTree.Find" end time: Mar 04 11:24 CET
+"NonEmptyTree.Find" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/37 Testing: NonEmptyTree.LeafNodes
+12/37 Test: NonEmptyTree.LeafNodes
+Command: "/home/matej/Desktop/assignment/build/black_box_test" "--gtest_filter=NonEmptyTree.LeafNodes"
+Directory: /home/matej/Desktop/assignment/build
+"NonEmptyTree.LeafNodes" start time: Mar 04 11:24 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/matej/Desktop/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyTree.LeafNodes
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyTree
+[ RUN      ] NonEmptyTree.LeafNodes
+[       OK ] NonEmptyTree.LeafNodes (0 ms)
+[----------] 1 test from NonEmptyTree (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyTree.LeafNodes" end time: Mar 04 11:24 CET
+"NonEmptyTree.LeafNodes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/37 Testing: NonEmptyTree.AllNodes
+13/37 Test: NonEmptyTree.AllNodes
+Command: "/home/matej/Desktop/assignment/build/black_box_test" "--gtest_filter=NonEmptyTree.AllNodes"
+Directory: /home/matej/Desktop/assignment/build
+"NonEmptyTree.AllNodes" start time: Mar 04 11:24 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/matej/Desktop/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyTree.AllNodes
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyTree
+[ RUN      ] NonEmptyTree.AllNodes
+[       OK ] NonEmptyTree.AllNodes (0 ms)
+[----------] 1 test from NonEmptyTree (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyTree.AllNodes" end time: Mar 04 11:24 CET
+"NonEmptyTree.AllNodes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/37 Testing: NonEmptyTree.NonLeafNodes
+14/37 Test: NonEmptyTree.NonLeafNodes
+Command: "/home/matej/Desktop/assignment/build/black_box_test" "--gtest_filter=NonEmptyTree.NonLeafNodes"
+Directory: /home/matej/Desktop/assignment/build
+"NonEmptyTree.NonLeafNodes" start time: Mar 04 11:24 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/matej/Desktop/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyTree.NonLeafNodes
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyTree
+[ RUN      ] NonEmptyTree.NonLeafNodes
+[       OK ] NonEmptyTree.NonLeafNodes (0 ms)
+[----------] 1 test from NonEmptyTree (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyTree.NonLeafNodes" end time: Mar 04 11:24 CET
+"NonEmptyTree.NonLeafNodes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/37 Testing: NonEmptyTree.InsertNodes
+15/37 Test: NonEmptyTree.InsertNodes
+Command: "/home/matej/Desktop/assignment/build/black_box_test" "--gtest_filter=NonEmptyTree.InsertNodes"
+Directory: /home/matej/Desktop/assignment/build
+"NonEmptyTree.InsertNodes" start time: Mar 04 11:24 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/matej/Desktop/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyTree.InsertNodes
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyTree
+[ RUN      ] NonEmptyTree.InsertNodes
+[       OK ] NonEmptyTree.InsertNodes (0 ms)
+[----------] 1 test from NonEmptyTree (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyTree.InsertNodes" end time: Mar 04 11:24 CET
+"NonEmptyTree.InsertNodes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/37 Testing: TreeAxioms.fisrtAxiom
+16/37 Test: TreeAxioms.fisrtAxiom
+Command: "/home/matej/Desktop/assignment/build/black_box_test" "--gtest_filter=TreeAxioms.fisrtAxiom"
+Directory: /home/matej/Desktop/assignment/build
+"TreeAxioms.fisrtAxiom" start time: Mar 04 11:24 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/matej/Desktop/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = TreeAxioms.fisrtAxiom
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TreeAxioms
+[ RUN      ] TreeAxioms.fisrtAxiom
+[       OK ] TreeAxioms.fisrtAxiom (0 ms)
+[----------] 1 test from TreeAxioms (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TreeAxioms.fisrtAxiom" end time: Mar 04 11:24 CET
+"TreeAxioms.fisrtAxiom" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/37 Testing: TreeAxioms.secondAxiom
+17/37 Test: TreeAxioms.secondAxiom
+Command: "/home/matej/Desktop/assignment/build/black_box_test" "--gtest_filter=TreeAxioms.secondAxiom"
+Directory: /home/matej/Desktop/assignment/build
+"TreeAxioms.secondAxiom" start time: Mar 04 11:24 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/matej/Desktop/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = TreeAxioms.secondAxiom
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TreeAxioms
+[ RUN      ] TreeAxioms.secondAxiom
+[       OK ] TreeAxioms.secondAxiom (0 ms)
+[----------] 1 test from TreeAxioms (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"TreeAxioms.secondAxiom" end time: Mar 04 11:24 CET
+"TreeAxioms.secondAxiom" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/37 Testing: TreeAxioms.thirdAxiom
+18/37 Test: TreeAxioms.thirdAxiom
+Command: "/home/matej/Desktop/assignment/build/black_box_test" "--gtest_filter=TreeAxioms.thirdAxiom"
+Directory: /home/matej/Desktop/assignment/build
+"TreeAxioms.thirdAxiom" start time: Mar 04 11:24 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/matej/Desktop/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = TreeAxioms.thirdAxiom
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TreeAxioms
+[ RUN      ] TreeAxioms.thirdAxiom
+[       OK ] TreeAxioms.thirdAxiom (0 ms)
+[----------] 1 test from TreeAxioms (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"TreeAxioms.thirdAxiom" end time: Mar 04 11:24 CET
+"TreeAxioms.thirdAxiom" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/37 Testing: MatrixTests.Constructor
+19/37 Test: MatrixTests.Constructor
+Command: "/home/matej/Desktop/assignment/build/white_box_test" "--gtest_filter=MatrixTests.Constructor"
+Directory: /home/matej/Desktop/assignment/build
+"MatrixTests.Constructor" start time: Mar 04 11:24 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/matej/Desktop/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = MatrixTests.Constructor
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MatrixTests
+[ RUN      ] MatrixTests.Constructor
+[       OK ] MatrixTests.Constructor (3 ms)
+[----------] 1 test from MatrixTests (3 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (3 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"MatrixTests.Constructor" end time: Mar 04 11:24 CET
+"MatrixTests.Constructor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/37 Testing: MatrixTests.setMatrixValues
+20/37 Test: MatrixTests.setMatrixValues
+Command: "/home/matej/Desktop/assignment/build/white_box_test" "--gtest_filter=MatrixTests.setMatrixValues"
+Directory: /home/matej/Desktop/assignment/build
+"MatrixTests.setMatrixValues" start time: Mar 04 11:24 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/matej/Desktop/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = MatrixTests.setMatrixValues
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MatrixTests
+[ RUN      ] MatrixTests.setMatrixValues
+[       OK ] MatrixTests.setMatrixValues (0 ms)
+[----------] 1 test from MatrixTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"MatrixTests.setMatrixValues" end time: Mar 04 11:24 CET
+"MatrixTests.setMatrixValues" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/37 Testing: MatrixTests.setMatrixArrayValues
+21/37 Test: MatrixTests.setMatrixArrayValues
+Command: "/home/matej/Desktop/assignment/build/white_box_test" "--gtest_filter=MatrixTests.setMatrixArrayValues"
+Directory: /home/matej/Desktop/assignment/build
+"MatrixTests.setMatrixArrayValues" start time: Mar 04 11:24 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/matej/Desktop/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = MatrixTests.setMatrixArrayValues
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MatrixTests
+[ RUN      ] MatrixTests.setMatrixArrayValues
+[       OK ] MatrixTests.setMatrixArrayValues (0 ms)
+[----------] 1 test from MatrixTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"MatrixTests.setMatrixArrayValues" end time: Mar 04 11:24 CET
+"MatrixTests.setMatrixArrayValues" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/37 Testing: MatrixTests.getMatrixValues
+22/37 Test: MatrixTests.getMatrixValues
+Command: "/home/matej/Desktop/assignment/build/white_box_test" "--gtest_filter=MatrixTests.getMatrixValues"
+Directory: /home/matej/Desktop/assignment/build
+"MatrixTests.getMatrixValues" start time: Mar 04 11:24 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/matej/Desktop/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = MatrixTests.getMatrixValues
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MatrixTests
+[ RUN      ] MatrixTests.getMatrixValues
+[       OK ] MatrixTests.getMatrixValues (0 ms)
+[----------] 1 test from MatrixTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"MatrixTests.getMatrixValues" end time: Mar 04 11:24 CET
+"MatrixTests.getMatrixValues" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/37 Testing: MatrixTests.getMatrixValues3x3
+23/37 Test: MatrixTests.getMatrixValues3x3
+Command: "/home/matej/Desktop/assignment/build/white_box_test" "--gtest_filter=MatrixTests.getMatrixValues3x3"
+Directory: /home/matej/Desktop/assignment/build
+"MatrixTests.getMatrixValues3x3" start time: Mar 04 11:24 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/matej/Desktop/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = MatrixTests.getMatrixValues3x3
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MatrixTests
+[ RUN      ] MatrixTests.getMatrixValues3x3
+[       OK ] MatrixTests.getMatrixValues3x3 (0 ms)
+[----------] 1 test from MatrixTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"MatrixTests.getMatrixValues3x3" end time: Mar 04 11:24 CET
+"MatrixTests.getMatrixValues3x3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/37 Testing: MatrixTests.wrongSetSize
+24/37 Test: MatrixTests.wrongSetSize
+Command: "/home/matej/Desktop/assignment/build/white_box_test" "--gtest_filter=MatrixTests.wrongSetSize"
+Directory: /home/matej/Desktop/assignment/build
+"MatrixTests.wrongSetSize" start time: Mar 04 11:24 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/matej/Desktop/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = MatrixTests.wrongSetSize
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MatrixTests
+[ RUN      ] MatrixTests.wrongSetSize
+[       OK ] MatrixTests.wrongSetSize (0 ms)
+[----------] 1 test from MatrixTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"MatrixTests.wrongSetSize" end time: Mar 04 11:24 CET
+"MatrixTests.wrongSetSize" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/37 Testing: MatrixTests.isEqualValue1x1
+25/37 Test: MatrixTests.isEqualValue1x1
+Command: "/home/matej/Desktop/assignment/build/white_box_test" "--gtest_filter=MatrixTests.isEqualValue1x1"
+Directory: /home/matej/Desktop/assignment/build
+"MatrixTests.isEqualValue1x1" start time: Mar 04 11:24 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/matej/Desktop/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = MatrixTests.isEqualValue1x1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MatrixTests
+[ RUN      ] MatrixTests.isEqualValue1x1
+[       OK ] MatrixTests.isEqualValue1x1 (0 ms)
+[----------] 1 test from MatrixTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"MatrixTests.isEqualValue1x1" end time: Mar 04 11:24 CET
+"MatrixTests.isEqualValue1x1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/37 Testing: MatrixTests.isEqualValue2x2
+26/37 Test: MatrixTests.isEqualValue2x2
+Command: "/home/matej/Desktop/assignment/build/white_box_test" "--gtest_filter=MatrixTests.isEqualValue2x2"
+Directory: /home/matej/Desktop/assignment/build
+"MatrixTests.isEqualValue2x2" start time: Mar 04 11:24 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/matej/Desktop/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = MatrixTests.isEqualValue2x2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MatrixTests
+[ RUN      ] MatrixTests.isEqualValue2x2
+[       OK ] MatrixTests.isEqualValue2x2 (1 ms)
+[----------] 1 test from MatrixTests (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"MatrixTests.isEqualValue2x2" end time: Mar 04 11:24 CET
+"MatrixTests.isEqualValue2x2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/37 Testing: MatrixTests.addTest
+27/37 Test: MatrixTests.addTest
+Command: "/home/matej/Desktop/assignment/build/white_box_test" "--gtest_filter=MatrixTests.addTest"
+Directory: /home/matej/Desktop/assignment/build
+"MatrixTests.addTest" start time: Mar 04 11:24 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/matej/Desktop/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = MatrixTests.addTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MatrixTests
+[ RUN      ] MatrixTests.addTest
+[       OK ] MatrixTests.addTest (0 ms)
+[----------] 1 test from MatrixTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"MatrixTests.addTest" end time: Mar 04 11:24 CET
+"MatrixTests.addTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/37 Testing: MatrixTests.multiplyTest
+28/37 Test: MatrixTests.multiplyTest
+Command: "/home/matej/Desktop/assignment/build/white_box_test" "--gtest_filter=MatrixTests.multiplyTest"
+Directory: /home/matej/Desktop/assignment/build
+"MatrixTests.multiplyTest" start time: Mar 04 11:24 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/matej/Desktop/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = MatrixTests.multiplyTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MatrixTests
+[ RUN      ] MatrixTests.multiplyTest
+[       OK ] MatrixTests.multiplyTest (0 ms)
+[----------] 1 test from MatrixTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"MatrixTests.multiplyTest" end time: Mar 04 11:24 CET
+"MatrixTests.multiplyTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+29/37 Testing: MatrixTests.scalarMultiplyTest
+29/37 Test: MatrixTests.scalarMultiplyTest
+Command: "/home/matej/Desktop/assignment/build/white_box_test" "--gtest_filter=MatrixTests.scalarMultiplyTest"
+Directory: /home/matej/Desktop/assignment/build
+"MatrixTests.scalarMultiplyTest" start time: Mar 04 11:24 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/matej/Desktop/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = MatrixTests.scalarMultiplyTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MatrixTests
+[ RUN      ] MatrixTests.scalarMultiplyTest
+[       OK ] MatrixTests.scalarMultiplyTest (0 ms)
+[----------] 1 test from MatrixTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"MatrixTests.scalarMultiplyTest" end time: Mar 04 11:24 CET
+"MatrixTests.scalarMultiplyTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+30/37 Testing: MatrixTests.solveEquationTest
+30/37 Test: MatrixTests.solveEquationTest
+Command: "/home/matej/Desktop/assignment/build/white_box_test" "--gtest_filter=MatrixTests.solveEquationTest"
+Directory: /home/matej/Desktop/assignment/build
+"MatrixTests.solveEquationTest" start time: Mar 04 11:24 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/matej/Desktop/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = MatrixTests.solveEquationTest
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MatrixTests
+[ RUN      ] MatrixTests.solveEquationTest
+[       OK ] MatrixTests.solveEquationTest (0 ms)
+[----------] 1 test from MatrixTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"MatrixTests.solveEquationTest" end time: Mar 04 11:24 CET
+"MatrixTests.solveEquationTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+31/37 Testing: NonEmptyQueue.Insert
+31/37 Test: NonEmptyQueue.Insert
+Command: "/home/matej/Desktop/assignment/build/tdd_test" "--gtest_filter=NonEmptyQueue.Insert"
+Directory: /home/matej/Desktop/assignment/build
+"NonEmptyQueue.Insert" start time: Mar 04 11:24 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/matej/Desktop/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyQueue.Insert
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyQueue
+[ RUN      ] NonEmptyQueue.Insert
+[       OK ] NonEmptyQueue.Insert (0 ms)
+[----------] 1 test from NonEmptyQueue (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyQueue.Insert" end time: Mar 04 11:24 CET
+"NonEmptyQueue.Insert" time elapsed: 00:00:00
+----------------------------------------------------------
+
+32/37 Testing: NonEmptyQueue.RemoveAllForward
+32/37 Test: NonEmptyQueue.RemoveAllForward
+Command: "/home/matej/Desktop/assignment/build/tdd_test" "--gtest_filter=NonEmptyQueue.RemoveAllForward"
+Directory: /home/matej/Desktop/assignment/build
+"NonEmptyQueue.RemoveAllForward" start time: Mar 04 11:24 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/matej/Desktop/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyQueue.RemoveAllForward
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyQueue
+[ RUN      ] NonEmptyQueue.RemoveAllForward
+[       OK ] NonEmptyQueue.RemoveAllForward (0 ms)
+[----------] 1 test from NonEmptyQueue (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyQueue.RemoveAllForward" end time: Mar 04 11:24 CET
+"NonEmptyQueue.RemoveAllForward" time elapsed: 00:00:00
+----------------------------------------------------------
+
+33/37 Testing: NonEmptyQueue.RemoveAllBackward
+33/37 Test: NonEmptyQueue.RemoveAllBackward
+Command: "/home/matej/Desktop/assignment/build/tdd_test" "--gtest_filter=NonEmptyQueue.RemoveAllBackward"
+Directory: /home/matej/Desktop/assignment/build
+"NonEmptyQueue.RemoveAllBackward" start time: Mar 04 11:24 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/matej/Desktop/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyQueue.RemoveAllBackward
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyQueue
+[ RUN      ] NonEmptyQueue.RemoveAllBackward
+[       OK ] NonEmptyQueue.RemoveAllBackward (0 ms)
+[----------] 1 test from NonEmptyQueue (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyQueue.RemoveAllBackward" end time: Mar 04 11:24 CET
+"NonEmptyQueue.RemoveAllBackward" time elapsed: 00:00:00
+----------------------------------------------------------
+
+34/37 Testing: NonEmptyQueue.Find
+34/37 Test: NonEmptyQueue.Find
+Command: "/home/matej/Desktop/assignment/build/tdd_test" "--gtest_filter=NonEmptyQueue.Find"
+Directory: /home/matej/Desktop/assignment/build
+"NonEmptyQueue.Find" start time: Mar 04 11:24 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/matej/Desktop/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyQueue.Find
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyQueue
+[ RUN      ] NonEmptyQueue.Find
+[       OK ] NonEmptyQueue.Find (0 ms)
+[----------] 1 test from NonEmptyQueue (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyQueue.Find" end time: Mar 04 11:24 CET
+"NonEmptyQueue.Find" time elapsed: 00:00:00
+----------------------------------------------------------
+
+35/37 Testing: EmptyQueue.Insert
+35/37 Test: EmptyQueue.Insert
+Command: "/home/matej/Desktop/assignment/build/tdd_test" "--gtest_filter=EmptyQueue.Insert"
+Directory: /home/matej/Desktop/assignment/build
+"EmptyQueue.Insert" start time: Mar 04 11:24 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/matej/Desktop/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyQueue.Insert
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyQueue
+[ RUN      ] EmptyQueue.Insert
+[       OK ] EmptyQueue.Insert (0 ms)
+[----------] 1 test from EmptyQueue (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyQueue.Insert" end time: Mar 04 11:24 CET
+"EmptyQueue.Insert" time elapsed: 00:00:00
+----------------------------------------------------------
+
+36/37 Testing: EmptyQueue.Remove
+36/37 Test: EmptyQueue.Remove
+Command: "/home/matej/Desktop/assignment/build/tdd_test" "--gtest_filter=EmptyQueue.Remove"
+Directory: /home/matej/Desktop/assignment/build
+"EmptyQueue.Remove" start time: Mar 04 11:24 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/matej/Desktop/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyQueue.Remove
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyQueue
+[ RUN      ] EmptyQueue.Remove
+[       OK ] EmptyQueue.Remove (0 ms)
+[----------] 1 test from EmptyQueue (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyQueue.Remove" end time: Mar 04 11:24 CET
+"EmptyQueue.Remove" time elapsed: 00:00:00
+----------------------------------------------------------
+
+37/37 Testing: EmptyQueue.Find
+37/37 Test: EmptyQueue.Find
+Command: "/home/matej/Desktop/assignment/build/tdd_test" "--gtest_filter=EmptyQueue.Find"
+Directory: /home/matej/Desktop/assignment/build
+"EmptyQueue.Find" start time: Mar 04 11:24 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/matej/Desktop/assignment/build/googletest-master/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyQueue.Find
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyQueue
+[ RUN      ] EmptyQueue.Find
+[       OK ] EmptyQueue.Find (0 ms)
+[----------] 1 test from EmptyQueue (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyQueue.Find" end time: Mar 04 11:24 CET
+"EmptyQueue.Find" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 04 11:24 CET
